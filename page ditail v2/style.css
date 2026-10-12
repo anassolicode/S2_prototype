@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+   
+}
+body{
+     background-color: #ecf3e8;
+    font-family: monospace;
+}
+header h1 {
+    text-align: center;
+    font-size: 2.2rem;
+}
+header h1 span{
+    color: green;
+}
+.nav-bar {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.nav-bar ul li {
+  display: inline;
+}
+.nav-bar ul li a{
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: green;
+}
+
+main{
+    margin: auto;
+    width: 900px;
+    height: 1400px;
+    margin-top: 25px;
+    border-radius: 12px;
+    background-color: white;
+    padding:25px  35px;
+}
+.btn1 {
+    margin-top: 15px;
+}
+
+.btn a{
+    padding: 5px 10px;
+    border: black solid 1px ;
+    border-radius: 12px;
+    width: 120px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+     margin-bottom: 10px;
+       font-weight: bold;
+       
+
+}
+.btn2{
+    background-color: rgba(35, 116, 35, 0.594);
+    color: white;
+}
+.btn1 a{
+    padding: 5px 10px;
+    border: black solid 1px ;
+    border-radius: 12px;
+    width: 120px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+     margin-bottom: 10px;
+       font-weight: bold;
+}
+.E-commerce h1{
+    font-size: 2.1rem;
+
+} 
+
+.E-commerce p {
+    opacity: 50%;
+    width: 450px;
+    margin-top: 10px;
+    font-size: 1rem;
+}
+.technolige {
+        margin-top: 15px;
+}
+.technolige p{
+    display: inline;
+    opacity: 100%;
+    border-radius: 12px;
+    border: solid black 1px ;
+    padding: 5px 13px ;
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: green;
+    background-color: #ecf3e8;
+    
+}
+.img-page-categori{
+
+}
+
+.img-page-categori img{
+    margin-left: 50px;
+    width: 800px;
+    height: 450px;
+    margin-top: 15px;
+}
+.page-propos{
+    margin-top: 10px;
+}
+.page-propos p{
+    opacity: 50%;
+    margin-top: 20px;
+    line-height: 1.5;
+    width: 530px;
+    font-size: 1rem;
+}
+.Apercu h1{
+    text-align: center;
+    margin-top: 10px;
+}
+.Apercu img{
+    width: 430px;
+    height: 300px;
+    margin: auto;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
